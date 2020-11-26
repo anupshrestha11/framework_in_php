@@ -4,8 +4,38 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "da174913a03f7051745f4f87787fcb8d",
+    "content-hash": "54b6c7acb1bf965131674f83f6671015",
     "packages": [
+        {
+            "name": "anup/php-mvc-core",
+            "version": "v0.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/anupshrestha11/mvc_framework_core.git",
+                "reference": "015383db0903391b3a1b1ecb182b1d5cb10089db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/anupshrestha11/mvc_framework_core/zipball/015383db0903391b3a1b1ecb182b1d5cb10089db",
+                "reference": "015383db0903391b3a1b1ecb182b1d5cb10089db",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "anup\\phpmvc\\": "./"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Anup-Shrestha",
+                    "email": "anupshresth9@gmail.com"
+                }
+            ],
+            "description": "Example to create a mvc framework from scratch",
+            "time": "2020-11-26T18:35:43+00:00"
+        },
         {
             "name": "graham-campbell/result-type",
             "version": "v1.0.1",

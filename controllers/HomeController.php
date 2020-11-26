@@ -4,9 +4,9 @@
 namespace app\controllers;
 
 
-use app\core\Application;
-use app\core\Controller;
-use app\core\Request;
+use anup\phpmvc\Application;
+use anup\phpmvc\Controller;
+use anup\phpmvc\Request;
 
 class HomeController extends Controller
 {

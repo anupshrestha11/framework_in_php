@@ -1,7 +1,7 @@
 <?php
 /**
  * @var $exception Exception
- * @var $this \app\core\View
+ * @var $this \anup\phpmvc\View
  */
  $this->title = $exception->getCode() ." - ". $exception->getMessage()
 
