@@ -1,0 +1,17 @@
+{
+  "name": "anup/my-framework",
+  "authors": [
+    {
+      "name": "Anup-Shrestha",
+      "email": "anupshresth9@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.2"
+  }
+}
