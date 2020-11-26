@@ -12,6 +12,7 @@
     }
   },
   "require": {
-    "vlucas/phpdotenv": "^5.2"
+    "vlucas/phpdotenv": "^5.2",
+    "anup/php-mvc-core": "^0.0.3"
   }
 }

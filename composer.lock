@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "54b6c7acb1bf965131674f83f6671015",
+    "content-hash": "3128f203f6cb51ec9c5274d543cd9cfc",
     "packages": [
         {
             "name": "anup/php-mvc-core",
